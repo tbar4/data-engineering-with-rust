@@ -1,0 +1,6 @@
+[book]
+authors = ["tbar4"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Data Engineering with Rust"
