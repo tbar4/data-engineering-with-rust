@@ -1,3 +1,5 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [Getting Started with Rust](./chapter_1.md)
+  - [Why Rust]()
+- [Chapter 2]
