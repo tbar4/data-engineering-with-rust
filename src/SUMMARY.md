@@ -1,11 +1,20 @@
 # Summary
 [Intro](./README.md)
 
-- [Getting Started with Rust](./chapter_1.md)
-  - [Data Types]()
-  - [Memory Management and Borrowing]()
+- [Getting Started with Rust](./getting_started_with_rust/getting_started_with_rust.md)
+  - [Fundamentals](./getting_started_with_rust/fundamentals/data_types.md)
+    - [Variables](./getting_started_with_rust/fundamentals/variables.md)
+    - [Data Types](./getting_started_with_rust/fundamentals/data_types.md)
+    - [Functions](./getting_started_with_rust/fundamentals/functions.md)
+    - [Control Flow](./getting_started_with_rust/fundamentals/control_flow.md)
+  - [Memory Management and Borrowing](./memory_management_and_borrowing/memory_management_and_borrowing.md)
   - [Data Structures]()
+    - [Structs]()
+    - [Enums]()
+    - [Collections]()
   - [Concurrency]()
+    - [Shared Memory]()
+    - [Channels]
 - [Basic Data Engineering Principles]()
   - [Definition of Data Engineering]()
   - [Data Sources]()
