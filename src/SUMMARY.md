@@ -14,7 +14,7 @@
     - [Collections]()
   - [Concurrency]()
     - [Shared Memory]()
-    - [Channels]
+    - [Channels]()
 - [Basic Data Engineering Principles]()
   - [Definition of Data Engineering]()
   - [Data Sources]()
